@@ -1,7 +1,7 @@
 {
   "name": "unpandaenor",
   "version": "0.1.0",
-  "homepage": "https://oukibibi.github.io/unpandaenor/",
+  "homepage": "https://oukibibi.github.io/unpandaenor",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
