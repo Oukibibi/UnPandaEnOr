@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unpandaenor/static/css/main.7342ae4f.css",
+    "main.js": "/unpandaenor/static/js/main.b6c2f390.js",
+    "index.html": "/unpandaenor/index.html",
+    "main.7342ae4f.css.map": "/unpandaenor/static/css/main.7342ae4f.css.map",
+    "main.b6c2f390.js.map": "/unpandaenor/static/js/main.b6c2f390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7342ae4f.css",
+    "static/js/main.b6c2f390.js"
+  ]
+}
