@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/unpandaenor/static/css/main.7342ae4f.css",
-    "main.js": "/unpandaenor/static/js/main.b6c2f390.js",
+    "main.css": "/unpandaenor/static/css/main.299506d2.css",
+    "main.js": "/unpandaenor/static/js/main.73aaa6cf.js",
     "index.html": "/unpandaenor/index.html",
-    "main.7342ae4f.css.map": "/unpandaenor/static/css/main.7342ae4f.css.map",
-    "main.b6c2f390.js.map": "/unpandaenor/static/js/main.b6c2f390.js.map"
+    "main.299506d2.css.map": "/unpandaenor/static/css/main.299506d2.css.map",
+    "main.73aaa6cf.js.map": "/unpandaenor/static/js/main.73aaa6cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.7342ae4f.css",
-    "static/js/main.b6c2f390.js"
+    "static/css/main.299506d2.css",
+    "static/js/main.73aaa6cf.js"
   ]
 }
